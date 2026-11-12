@@ -4,6 +4,8 @@ A custom Home Assistant dashboard card for listing Shelly devices, monitoring
 their power and energy, and controlling switches. A manufacturer filter also
 allows devices from other manufacturers to be displayed.
 
+![Shelly Table Card showing device power, energy and switches](screenshot1.jpg)
+
 ## Features
 
 - Shows devices in a sortable table with name, area, power, energy and switch
